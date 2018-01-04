@@ -15,7 +15,7 @@ var DatatableHtmlTableDemo = function() {
       },
       columns: [
         {
-          field: 'Deposit Paid',
+          field: 'Deposit Paiw',
           type: 'number',
         },
         {
@@ -30,7 +30,7 @@ var DatatableHtmlTableDemo = function() {
   return {
     //== Public functions
     init: function() {
-      // init dmeo
+
       demo();
     },
   };
