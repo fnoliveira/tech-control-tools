@@ -15,7 +15,7 @@ var DatatableHtmlTableDemo = function() {
       },
       columns: [
         {
-          field: 'Deposit Paiw',
+          field: 'Deposit Paid',
           type: 'number',
         },
         {
