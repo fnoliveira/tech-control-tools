@@ -400,6 +400,7 @@
                         ],
                         "scripts": [
                             "{$config.path.node_modules}/fullcalendar/dist/fullcalendar.js",
+                            "{$config.path.node_modules}/fullcalendar/dist/locale/pt-br.js",
                             "{$config.path.node_modules}/fullcalendar/dist/gcal.js"
                         ]
                     },
